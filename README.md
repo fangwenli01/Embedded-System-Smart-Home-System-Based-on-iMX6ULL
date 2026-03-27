@@ -198,12 +198,6 @@ Click **Start Monitoring** to start multi-thread polling, working appliances are
 
 The table displays resident information, the corresponding photo is displayed in real time when selecting a list item. Support adding/modifying information and synchronizing with the database.
 
-## Project Contribution
-
-- **Ye Qingqing**: Development of Home Audio, Resident Information Registration, Kitchen/Bedroom Timer, Curtain & Door Control, Home Appliance Status Monitoring modules, and project report writing (60%)
-
-- **Fang Wenli**: Development of Doorbell (Buzzer), Smart Light, Environmental Sensing Hub, Serial function modules (40%)
-
 ## Future Improvements & Extensions
 
 1. **Remote Control**: Add WiFi/Bluetooth modules (such as ESP8266), develop mobile APP to realize remote control and status viewing of smart home.
